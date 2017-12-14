@@ -39,6 +39,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+		<dependency>
+		    <groupId>com.atomist</groupId>
+		     <artifactId>spring-boot-agent</artifactId>
+		     <version>0.1.2</version>
+		 </dependency>
 	</dependencies>
 
 	<build>
