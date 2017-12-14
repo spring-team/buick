@@ -15,4 +15,10 @@ class BuickController {
         return "Hello " + name + "!";
     }
 
+
+    @RequestMapping(method = GET, path = "car/{name}")
+    public String car(@PathVariable String name) {
+        return name + " drives a Buick!";
+    }
+
 }
