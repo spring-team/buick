@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>spring-rest-seed</name>
-	<description>Creates an outdated Spring Boot Rest MVC project with Maven</description>
+	<description>Buick is still a brand of car</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
